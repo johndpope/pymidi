@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2392747D-DDB0-474C-A804-93F763D3F189</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5449F368FF2488F58CF210C8A9328D83FB2AF6C9</key>
+		<string>https://github.com/johndpope/pymidi</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5449F368FF2488F58CF210C8A9328D83FB2AF6C9</key>
+		<string>pymidi/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/johndpope/pymidi</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5449F368FF2488F58CF210C8A9328D83FB2AF6C9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5449F368FF2488F58CF210C8A9328D83FB2AF6C9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pymidi</string>
+		</dict>
+	</array>
+</dict>
+</plist>
